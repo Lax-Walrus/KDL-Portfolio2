@@ -1,1 +1,37 @@
-# KDL-Portfolio2
+### My Portfolio
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+![snapshot]()
+
+Deployment Link: https://lax-walrus.github.io/KDL-Portfolio2/
+
+## description:
+
+    This a portfolio detailing what I have done and accomplishments I am proud of
+
+## TOC
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#tests)
+- [Contributers](#Contributers)
+- [FAQs](#FAQs)
+
+## Installation:
+
+N/A
+
+## Usage
+
+MIT
+
+## Testing
+
+N/A
+
+## Contributers
+
+Kevin Lyons
+
+## FAQs
