@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-![snapshot](images\screencapture-lax-walrus-github-io-KDL-Portfolio2-2021-02-10-09_43_13.png)
+![snapshot](images/screencapture-lax-walrus-github-io-KDL-Portfolio2-2021-02-10-09_43_13.png)
 
 Deployment Link: https://lax-walrus.github.io/KDL-Portfolio2/
 
