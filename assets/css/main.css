@@ -4140,9 +4140,13 @@ body.is-preload #banner p {
   text-align: center;
 }
 
-#footer .inner .copyright {
-  border-top: solid 2px rgba(255, 255, 255, 0.125);
+#icons {
   list-style: none;
+}
+
+#footer.inner .copyright {
+  border-top: solid 2px rgba(255, 255, 255, 0.125);
+  list-style: none !important;
   margin: 4em 0 2em 0;
   padding: 2em 0 0 0;
   width: 100%;
